@@ -12,6 +12,8 @@
 5. [Math Operations](MathOperations.py)
 6. [Variables](Variables.py)
 7. [Boolean Expressions](BooleanExpressions.py)
+8. [Conditional Statements](ConditionalStatements.py)
+9. [Nested Conditional Statements](NestedConditionalStatements.py)
 
 ###### All of this code is licensed to Genesis Code and may not be used without permission. 
 
