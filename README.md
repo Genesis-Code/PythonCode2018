@@ -10,6 +10,8 @@
 3. [Comments](Comments.py)
 4. [New Line](NewLine.py)
 5. [Math Operations](MathOperations.py)
+6. [Variables](Variables.py)
+7. [Boolean Expressions](BooleanExpressions.py)
 
 ###### All of this code is licensed to Genesis Code and may not be used without permission. 
 
