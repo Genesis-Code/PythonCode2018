@@ -4,7 +4,9 @@
 
 > Assume that all code should be run with python3 (python 3.6.5 if possible)
 
-### Order:
+## Order:
+
+#### Week 1
 1. [Hello World](HelloWorld.py)
 2. [Concatenation](Concatenation.py)
 3. [Comments](Comments.py)
@@ -14,6 +16,7 @@
 7. [Boolean Expressions](BooleanExpressions.py)
 8. [Conditional Statements](ConditionalStatements.py)
 9. [Nested Conditional Statements](NestedConditionalStatements.py)
+10. [And/Or Operators](AndOr.py) 
 
 ###### All of this code is licensed to Genesis Code and may not be used without permission. 
 
